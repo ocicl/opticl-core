@@ -1,0 +1,10 @@
+* opticl-core
+
+Core classes and pixel access macros from opticl
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/slyrus/opticl-core.git   |
+| commit  | b7cd13d  |
+| systems | opticl-core |
+|---------+-------------------------------------------|
+
